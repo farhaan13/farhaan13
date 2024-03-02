@@ -22,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://dev.to/@navneetverma_nav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@navneetverma_nav" height="30" width="40" /></a> -->
+<a href="https://www.kaggle.com/farhaankagggle target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="farhaankagggle" height="30" width="40" /></a>
 <a href="https://twitter.com/farhahahahaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farhahahahaan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohammad-farhaan-1335171a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-farhaan-1335171a9" height="30" width="40" /></a>
 <a href="https://https://medium.com/@mohdfarhaan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohdfarhaan13" height="30" width="40" /></a>
