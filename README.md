@@ -6,9 +6,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navneetvermanav&label=Profile%20views&color=0e75b6&style=flat" alt="navneetvermanav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhaan13&label=Profile%20views&color=0e75b6&style=flat" alt="navneetvermanav" /> </p>
 
-<p align="left"> <a href="https://twitter.com/farhahahahaan" target="blank"><img src="https://img.shields.io/twitter/follow/navneetvermanav?logo=twitter&style=for-the-badge" alt="farhahahahaan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/farhahahahaan" target="blank"><img src="https://img.shields.io/twitter/follow/farhahahahaan?logo=twitter&style=for-the-badge" alt="farhahahahaan" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science and Engineering**
 
